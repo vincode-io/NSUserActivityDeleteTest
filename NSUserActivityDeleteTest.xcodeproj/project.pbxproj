@@ -24,6 +24,7 @@
 		510BD151232D6C96002692E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		510BD154232D6C96002692E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		510BD156232D6C96002692E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		510BD15C232D7060002692E4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		510BD13C232D6C94002692E4 = {
 			isa = PBXGroup;
 			children = (
+				510BD15C232D7060002692E4 /* README.md */,
 				510BD147232D6C94002692E4 /* NSUserActivityDeleteTest */,
 				510BD146232D6C94002692E4 /* Products */,
 			);
